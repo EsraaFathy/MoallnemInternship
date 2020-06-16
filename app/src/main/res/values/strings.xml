@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoalemInternsip</string>
+    <string name="moallem_logo">moallem logo</string>
+    <string name="subjects">Subjects</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="continue_learning">Continue learning?</string>
+    <string name="subject_logo">subject logo</string>
+    <string name="physics">Physics</string>
+    <string name="play_icon">Play Icon</string>
+</resources>
